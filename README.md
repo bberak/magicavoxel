@@ -1,2 +1,3 @@
-# voxel-fun
+# MagicaVoxel
+
 Repo for holding MagicaVoxel files
